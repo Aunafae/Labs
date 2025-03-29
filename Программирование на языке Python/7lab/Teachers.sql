@@ -1,0 +1,25 @@
+-- DROP DATABASE IF EXISTS `Teachers`;
+
+CREATE DATABASE IF NOT EXISTS `Teachers`;
+USE `Teachers` ;
+
+
+CREATE TABLE IF NOT EXISTS `Teacher` (
+  `code` MEDIUMINT UNSIGNED PRIMARY KEY NOT NULL AUTO_INCREMENT,
+  `surname` VARCHAR(45) NULL,
+  `firstname` VARCHAR(20) NULL,
+  `patronymic` VARCHAR(25) NULL,
+  `gender` VARCHAR(25) NULL,
+  `birthday` DATE NULL,
+  `address` VARCHAR(100) NULL,
+  `phone` VARCHAR(20) NULL);
+
+CREATE TABLE IF NOT EXISTS `Subjects` (
+  `idSubjects` TINYINT UNSIGNED PRIMARY KEY NOT NULL AUTO_INCREMENT,
+  `subjectTaught` VARCHAR(60) NULL);
+
+CREATE TABLE IF NOT EXISTS `TeacherSubjects` (
+  `codeTeacher` MEDIUMINT UNSIGNED NOT NULL,
+  `idSubjects` TINYINT UNSIGNED NOT NULL,
+  `workExperience` TINYINT NOT NULL,
+PRIMARY KEY (`codeTeacher`, `idSubjects`));
