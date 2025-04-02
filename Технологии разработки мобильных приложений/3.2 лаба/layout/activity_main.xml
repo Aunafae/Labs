@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#DAD0C8"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/output"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintHeight_percent="0.2"
+        app:layout_constraintWidth_percent="0.75"
+        android:textSize="20sp"
+        android:backgroundTint="#7b917b"
+        android:onClick="to_activity_output"
+        app:layout_constraintBottom_toBottomOf="@+id/add"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:text="Вывести"/>
+
+    <Button
+        android:id="@+id/add"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintHeight_percent="0.2"
+        app:layout_constraintWidth_percent="0.75"
+        android:textSize="20sp"
+        android:backgroundTint="#7b917b"
+        android:onClick="add"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:text="Добавить"/>
+
+    <Button
+        android:id="@+id/edit"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintHeight_percent="0.2"
+        app:layout_constraintWidth_percent="0.75"
+        android:textSize="20sp"
+        android:backgroundTint="#7b917b"
+        android:onClick="edit"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/add"
+        android:text="Изменить"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

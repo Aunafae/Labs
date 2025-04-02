@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:background="#DAD0C8"
+    tools:context="com.example.mobapplab2.Activity3">
+
+    <View android:id="@+id/view"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_centerHorizontal="true"/>
+
+    <Button
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@id/view"
+        android:layout_alignParentLeft="true"
+        android:text="Left 50%"
+        android:backgroundTint="#7b917b"/>
+    <Button
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/view"
+        android:layout_alignParentRight="true"
+        android:text="Right 50%"
+        android:backgroundTint="#7b917b"/>
+
+    <Button
+        android:id="@+id/button10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Center_left"
+        android:layout_toStartOf="@id/button12"
+        android:layout_centerVertical="true"
+        android:backgroundTint="#7b917b"/>
+
+    <Button
+        android:id="@+id/button12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Center"
+        android:layout_centerInParent="true"
+        android:backgroundTint="#7b917b"/>
+
+    <Button
+        android:id="@+id/button13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Center_right"
+        android:layout_toEndOf="@id/button12"
+        android:layout_centerVertical="true"
+        android:backgroundTint="#7b917b"/>
+
+    <Button
+        android:id="@+id/button15"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bottom"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:backgroundTint="#7b917b"/>
+
+</RelativeLayout>
