@@ -1,0 +1,19 @@
+﻿  CompGraphics Lab1.cpp
+C:\Users\Aunafae\source\repos\CompGraphics Lab1\CompGraphics Lab1\CompGraphics Lab1.cpp(121,15): warning C4244: return: преобразование "WPARAM" в "int", возможна потеря данных
+C:\Users\Aunafae\source\repos\CompGraphics Lab1\CompGraphics Lab1\CompGraphics Lab1.cpp(141,9): warning C4101: timermsg: неиспользованная локальная переменная
+C:\Users\Aunafae\source\repos\CompGraphics Lab1\CompGraphics Lab1\CompGraphics Lab1.cpp(276,47): warning C4244: аргумент: преобразование "DOUBLE" в "int", возможна потеря данных
+C:\Users\Aunafae\source\repos\CompGraphics Lab1\CompGraphics Lab1\CompGraphics Lab1.cpp(276,33): warning C4244: аргумент: преобразование "DOUBLE" в "int", возможна потеря данных
+C:\Users\Aunafae\source\repos\CompGraphics Lab1\CompGraphics Lab1\CompGraphics Lab1.cpp(277,45): warning C4244: аргумент: преобразование "DOUBLE" в "int", возможна потеря данных
+C:\Users\Aunafae\source\repos\CompGraphics Lab1\CompGraphics Lab1\CompGraphics Lab1.cpp(277,31): warning C4244: аргумент: преобразование "DOUBLE" в "int", возможна потеря данных
+C:\Users\Aunafae\source\repos\CompGraphics Lab1\CompGraphics Lab1\CompGraphics Lab1.cpp(280,76): warning C4244: аргумент: преобразование "DOUBLE" в "int", возможна потеря данных
+C:\Users\Aunafae\source\repos\CompGraphics Lab1\CompGraphics Lab1\CompGraphics Lab1.cpp(280,62): warning C4244: аргумент: преобразование "DOUBLE" в "int", возможна потеря данных
+C:\Users\Aunafae\source\repos\CompGraphics Lab1\CompGraphics Lab1\CompGraphics Lab1.cpp(280,48): warning C4244: аргумент: преобразование "DOUBLE" в "int", возможна потеря данных
+C:\Users\Aunafae\source\repos\CompGraphics Lab1\CompGraphics Lab1\CompGraphics Lab1.cpp(280,34): warning C4244: аргумент: преобразование "DOUBLE" в "int", возможна потеря данных
+C:\Users\Aunafae\source\repos\CompGraphics Lab1\CompGraphics Lab1\CompGraphics Lab1.cpp(283,74): warning C4244: аргумент: преобразование "DOUBLE" в "int", возможна потеря данных
+C:\Users\Aunafae\source\repos\CompGraphics Lab1\CompGraphics Lab1\CompGraphics Lab1.cpp(283,60): warning C4244: аргумент: преобразование "DOUBLE" в "int", возможна потеря данных
+C:\Users\Aunafae\source\repos\CompGraphics Lab1\CompGraphics Lab1\CompGraphics Lab1.cpp(283,46): warning C4244: аргумент: преобразование "DOUBLE" в "int", возможна потеря данных
+C:\Users\Aunafae\source\repos\CompGraphics Lab1\CompGraphics Lab1\CompGraphics Lab1.cpp(283,32): warning C4244: аргумент: преобразование "DOUBLE" в "int", возможна потеря данных
+C:\Users\Aunafae\source\repos\CompGraphics Lab1\CompGraphics Lab1\CompGraphics Lab1.cpp(304,22): warning C4244: =: преобразование "LPARAM" в "LONG", возможна потеря данных
+C:\Users\Aunafae\source\repos\CompGraphics Lab1\CompGraphics Lab1\CompGraphics Lab1.cpp(335,22): warning C4244: =: преобразование "LPARAM" в "LONG", возможна потеря данных
+C:\Users\Aunafae\source\repos\CompGraphics Lab1\CompGraphics Lab1\CompGraphics Lab1.cpp(356,22): warning C4244: =: преобразование "LPARAM" в "LONG", возможна потеря данных
+  CompGraphics Lab1.vcxproj -> C:\Users\Aunafae\source\repos\CompGraphics Lab1\x64\Debug\CompGraphics Lab1.exe
