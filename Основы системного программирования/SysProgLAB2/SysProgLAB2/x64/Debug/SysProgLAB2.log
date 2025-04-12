@@ -1,0 +1,26 @@
+﻿  SysProgLAB2.cpp
+C:\Users\Artem\source\repos\SysProgLAB2\SysProgLAB2\ProgressBar.cpp(24,13): warning C4312: приведение типов: преобразование из "LONG" в "HINSTANCE" большего размера
+  (компиляция исходного файла "SysProgLAB2.cpp")
+  
+C:\Users\Artem\source\repos\SysProgLAB2\SysProgLAB2\SysProgLAB2.cpp(20,25): warning C4838: Преобразование из "int" в "DWORD" требует сужающего преобразования.
+C:\Users\Artem\source\repos\SysProgLAB2\SysProgLAB2\SysProgLAB2.cpp(20,29): warning C4838: Преобразование из "int" в "DWORD" требует сужающего преобразования.
+C:\Users\Artem\source\repos\SysProgLAB2\SysProgLAB2\SysProgLAB2.cpp(20,33): warning C4838: Преобразование из "int" в "DWORD" требует сужающего преобразования.
+C:\Users\Artem\source\repos\SysProgLAB2\SysProgLAB2\SysProgLAB2.cpp(96,13): warning C4312: приведение типов: преобразование из "LONG" в "HINSTANCE" большего размера
+C:\Users\Artem\source\repos\SysProgLAB2\SysProgLAB2\SysProgLAB2.cpp(120,13): warning C4312: приведение типов: преобразование из "LONG" в "HINSTANCE" большего размера
+C:\Users\Artem\source\repos\SysProgLAB2\SysProgLAB2\SysProgLAB2.cpp(145,13): warning C4312: приведение типов: преобразование из "LONG" в "HINSTANCE" большего размера
+C:\Users\Artem\source\repos\SysProgLAB2\SysProgLAB2\SysProgLAB2.cpp(158,13): warning C4312: приведение типов: преобразование из "LONG" в "HINSTANCE" большего размера
+C:\Users\Artem\source\repos\SysProgLAB2\SysProgLAB2\SysProgLAB2.cpp(171,13): warning C4312: приведение типов: преобразование из "LONG" в "HINSTANCE" большего размера
+C:\Users\Artem\source\repos\SysProgLAB2\SysProgLAB2\SysProgLAB2.cpp(199,13): warning C4312: приведение типов: преобразование из "LONG" в "HINSTANCE" большего размера
+C:\Users\Artem\source\repos\SysProgLAB2\SysProgLAB2\SysProgLAB2.cpp(211,13): warning C4312: приведение типов: преобразование из "LONG" в "HINSTANCE" большего размера
+C:\Users\Artem\source\repos\SysProgLAB2\SysProgLAB2\SysProgLAB2.cpp(224,13): warning C4312: приведение типов: преобразование из "LONG" в "HINSTANCE" большего размера
+C:\Users\Artem\source\repos\SysProgLAB2\SysProgLAB2\SysProgLAB2.cpp(237,13): warning C4312: приведение типов: преобразование из "LONG" в "HINSTANCE" большего размера
+C:\Users\Artem\source\repos\SysProgLAB2\SysProgLAB2\SysProgLAB2.cpp(250,13): warning C4312: приведение типов: преобразование из "LONG" в "HINSTANCE" большего размера
+C:\Users\Artem\source\repos\SysProgLAB2\SysProgLAB2\SysProgLAB2.cpp(263,13): warning C4312: приведение типов: преобразование из "LONG" в "HINSTANCE" большего размера
+C:\Users\Artem\source\repos\SysProgLAB2\SysProgLAB2\SysProgLAB2.cpp(275,13): warning C4312: приведение типов: преобразование из "LONG" в "HINSTANCE" большего размера
+C:\Users\Artem\source\repos\SysProgLAB2\SysProgLAB2\SysProgLAB2.cpp(286,31): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+C:\Users\Artem\source\repos\SysProgLAB2\SysProgLAB2\SysProgLAB2.cpp(415,22): warning C4244: инициализация: преобразование "WPARAM" в "int", возможна потеря данных
+C:\Users\Artem\source\repos\SysProgLAB2\SysProgLAB2\SysProgLAB2.cpp(426,26): warning C4244: инициализация: преобразование "WPARAM" в "int", возможна потеря данных
+C:\Users\Artem\source\repos\SysProgLAB2\SysProgLAB2\SysProgLAB2.cpp(520,9): warning C4838: Преобразование из "int" в "DWORD" требует сужающего преобразования.
+C:\Users\Artem\source\repos\SysProgLAB2\SysProgLAB2\SysProgLAB2.cpp(525,9): warning C4838: Преобразование из "int" в "DWORD" требует сужающего преобразования.
+C:\Users\Artem\source\repos\SysProgLAB2\SysProgLAB2\SysProgLAB2.cpp(526,9): warning C4838: Преобразование из "int" в "DWORD" требует сужающего преобразования.
+  SysProgLAB2.vcxproj -> C:\Users\Artem\source\repos\SysProgLAB2\x64\Debug\SysProgLAB2.exe

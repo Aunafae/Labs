@@ -1,0 +1,9 @@
+﻿  SysProgLAB2.cpp
+C:\Users\Aunafae\source\repos\SysProgLAB2\SysProgLAB2\SysProgLAB2.cpp(10,25): warning C4838: Преобразование из "int" в "DWORD" требует сужающего преобразования.
+C:\Users\Aunafae\source\repos\SysProgLAB2\SysProgLAB2\SysProgLAB2.cpp(10,29): warning C4838: Преобразование из "int" в "DWORD" требует сужающего преобразования.
+C:\Users\Aunafae\source\repos\SysProgLAB2\SysProgLAB2\SysProgLAB2.cpp(10,33): warning C4838: Преобразование из "int" в "DWORD" требует сужающего преобразования.
+C:\Users\Aunafae\source\repos\SysProgLAB2\SysProgLAB2\SysProgLAB2.cpp(31,31): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Aunafae\source\repos\SysProgLAB2\SysProgLAB2\SysProgLAB2.cpp(107,17): warning C4838: Преобразование из "int" в "DWORD" требует сужающего преобразования.
+C:\Users\Aunafae\source\repos\SysProgLAB2\SysProgLAB2\SysProgLAB2.cpp(108,17): warning C4838: Преобразование из "int" в "DWORD" требует сужающего преобразования.
+C:\Users\Aunafae\source\repos\SysProgLAB2\SysProgLAB2\SysProgLAB2.cpp(109,17): warning C4838: Преобразование из "int" в "DWORD" требует сужающего преобразования.
+  SysProgLAB2.vcxproj -> C:\Users\Aunafae\source\repos\SysProgLAB2\Debug\SysProgLAB2.exe
