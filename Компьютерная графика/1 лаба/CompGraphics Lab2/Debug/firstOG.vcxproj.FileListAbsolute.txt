@@ -1,0 +1,5 @@
+C:\Users\ch.CNITI.001\source\repos\firstOG\Debug\firstOG.exe
+C:\Users\ch.CNITI\Documents\Visual Studio 2022\repos\firstOG\Debug\firstOG.exe
+C:\Users\ch.CNITI\Documents\Visual Studio 2022\repos\2024\firstOG\Debug\firstOG.exe
+C:\Users\Администратор\Desktop\2024\TestfirstOG\Debug\firstOG.exe
+C:\Users\Администратор\Desktop\TestfirstOG\Debug\firstOG.exe
