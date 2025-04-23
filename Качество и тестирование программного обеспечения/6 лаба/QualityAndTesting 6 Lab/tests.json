@@ -1,0 +1,42 @@
+[
+	{
+		"name": "countTransmitters",
+		"arr": [ [] ],
+		"k": [ 6 ],
+		"n": [ 0 ],
+		"expected_result": "Incorrect source data",
+		"module": "countingTransmitters"
+	},
+	{
+		"name": "countTransmitters",
+		"arr": [ [ 3, 1, 4, 6, 2 ] ],
+		"k": [ 0 ],
+		"n": [ 5 ],
+		"expected_result": "Incorrect source data",
+		"module": "countingTransmitters"
+	},
+	{
+		"name": "countTransmitters",
+		"arr": [ [ 3, -1, 4, 0, 2 ] ],
+		"k": [ 6 ],
+		"n": [ 5 ],
+		"expected_result": "Incorrect source data",
+		"module": "countingTransmitters"
+	},
+	{
+		"name": "countTransmitters",
+		"arr": [ [ 19, 23, 24 ] ],
+		"k": [ 4 ],
+		"n": [ 3 ],
+		"expected_result": 1,
+		"module": "countingTransmitters"
+	},
+	{
+		"name": "countTransmitters",
+		"arr": [ [ 1, 9 ] ],
+		"k": [ 7 ],
+		"n": [ 2 ],
+		"expected_result": 2,
+		"module": "countingTransmitters"
+	}
+]
