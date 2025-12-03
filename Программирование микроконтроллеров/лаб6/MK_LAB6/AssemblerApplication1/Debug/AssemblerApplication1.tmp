@@ -1,0 +1,53 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega1280"</DEVICE>
+ <WORKING_DIR>C:\Users\Aunafae\Desktop\уник\Программирование микроконтроллеров (зачёт)\Лабы\лаб6\MK_LAB6\AssemblerApplication1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Aunafae\Desktop\уник\Программирование микроконтроллеров (зачёт)\Лабы\лаб6\MK_LAB6\AssemblerApplication1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m1280def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Aunafae\Desktop\уник\Программирование микроконтроллеров (зачёт)\Лабы\лаб6\MK_LAB6\AssemblerApplication1\Debug\AssemblerApplication1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerApplication1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerApplication1.map</FILE>
+  <FILE>AssemblerApplication1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\Aunafae\Desktop\уник\Программирование микроконтроллеров (зачёт)\Лабы\лаб6\MK_LAB6\AssemblerApplication1\main.asm</FILE><LINE>14</LINE></start>
+  <loop><FILE>C:\Users\Aunafae\Desktop\уник\Программирование микроконтроллеров (зачёт)\Лабы\лаб6\MK_LAB6\AssemblerApplication1\main.asm</FILE><LINE>37</LINE></loop>
+  <switchOn><FILE>C:\Users\Aunafae\Desktop\уник\Программирование микроконтроллеров (зачёт)\Лабы\лаб6\MK_LAB6\AssemblerApplication1\main.asm</FILE><LINE>157</LINE></switchOn>
+  <switchType><FILE>C:\Users\Aunafae\Desktop\уник\Программирование микроконтроллеров (зачёт)\Лабы\лаб6\MK_LAB6\AssemblerApplication1\main.asm</FILE><LINE>167</LINE></switchType>
+  <changeSpeed><FILE>C:\Users\Aunafae\Desktop\уник\Программирование микроконтроллеров (зачёт)\Лабы\лаб6\MK_LAB6\AssemblerApplication1\main.asm</FILE><LINE>184</LINE></changeSpeed>
+  <animateEffect><FILE>C:\Users\Aunafae\Desktop\уник\Программирование микроконтроллеров (зачёт)\Лабы\лаб6\MK_LAB6\AssemblerApplication1\main.asm</FILE><LINE>94</LINE></animateEffect>
+  <delay><FILE>C:\Users\Aunafae\Desktop\уник\Программирование микроконтроллеров (зачёт)\Лабы\лаб6\MK_LAB6\AssemblerApplication1\main.asm</FILE><LINE>54</LINE></delay>
+  <waitLoop><FILE>C:\Users\Aunafae\Desktop\уник\Программирование микроконтроллеров (зачёт)\Лабы\лаб6\MK_LAB6\AssemblerApplication1\main.asm</FILE><LINE>58</LINE></waitLoop>
+  <initAnimation><FILE>C:\Users\Aunafae\Desktop\уник\Программирование микроконтроллеров (зачёт)\Лабы\лаб6\MK_LAB6\AssemblerApplication1\main.asm</FILE><LINE>68</LINE></initAnimation>
+  <checkType><FILE>C:\Users\Aunafae\Desktop\уник\Программирование микроконтроллеров (зачёт)\Лабы\лаб6\MK_LAB6\AssemblerApplication1\main.asm</FILE><LINE>72</LINE></checkType>
+  <checkType1><FILE>C:\Users\Aunafae\Desktop\уник\Программирование микроконтроллеров (зачёт)\Лабы\лаб6\MK_LAB6\AssemblerApplication1\main.asm</FILE><LINE>78</LINE></checkType1>
+  <checkEnd><FILE>C:\Users\Aunafae\Desktop\уник\Программирование микроконтроллеров (зачёт)\Лабы\лаб6\MK_LAB6\AssemblerApplication1\main.asm</FILE><LINE>90</LINE></checkEnd>
+  <checkType2><FILE>C:\Users\Aunafae\Desktop\уник\Программирование микроконтроллеров (зачёт)\Лабы\лаб6\MK_LAB6\AssemblerApplication1\main.asm</FILE><LINE>84</LINE></checkType2>
+  <skipDelayCheck><FILE>C:\Users\Aunafae\Desktop\уник\Программирование микроконтроллеров (зачёт)\Лабы\лаб6\MK_LAB6\AssemblerApplication1\main.asm</FILE><LINE>108</LINE></skipDelayCheck>
+  <tickUpdate><FILE>C:\Users\Aunafae\Desktop\уник\Программирование микроконтроллеров (зачёт)\Лабы\лаб6\MK_LAB6\AssemblerApplication1\main.asm</FILE><LINE>112</LINE></tickUpdate>
+  <typeCheck1><FILE>C:\Users\Aunafae\Desktop\уник\Программирование микроконтроллеров (зачёт)\Лабы\лаб6\MK_LAB6\AssemblerApplication1\main.asm</FILE><LINE>118</LINE></typeCheck1>
+  <typeCheck2><FILE>C:\Users\Aunafae\Desktop\уник\Программирование микроконтроллеров (зачёт)\Лабы\лаб6\MK_LAB6\AssemblerApplication1\main.asm</FILE><LINE>140</LINE></typeCheck2>
+  <animate_type1_no_light0><FILE>C:\Users\Aunafae\Desktop\уник\Программирование микроконтроллеров (зачёт)\Лабы\лаб6\MK_LAB6\AssemblerApplication1\main.asm</FILE><LINE>133</LINE></animate_type1_no_light0>
+  <animate_type_end><FILE>C:\Users\Aunafae\Desktop\уник\Программирование микроконтроллеров (зачёт)\Лабы\лаб6\MK_LAB6\AssemblerApplication1\main.asm</FILE><LINE>153</LINE></animate_type_end>
+  <animate_type_check2_full_end><FILE>C:\Users\Aunafae\Desktop\уник\Программирование микроконтроллеров (зачёт)\Лабы\лаб6\MK_LAB6\AssemblerApplication1\main.asm</FILE><LINE>145</LINE></animate_type_check2_full_end>
+  <switch_on_button_release><FILE>C:\Users\Aunafae\Desktop\уник\Программирование микроконтроллеров (зачёт)\Лабы\лаб6\MK_LAB6\AssemblerApplication1\main.asm</FILE><LINE>158</LINE></switch_on_button_release>
+  <typeButtonRelease><FILE>C:\Users\Aunafae\Desktop\уник\Программирование микроконтроллеров (зачёт)\Лабы\лаб6\MK_LAB6\AssemblerApplication1\main.asm</FILE><LINE>168</LINE></typeButtonRelease>
+  <typeCheck><FILE>C:\Users\Aunafae\Desktop\уник\Программирование микроконтроллеров (зачёт)\Лабы\лаб6\MK_LAB6\AssemblerApplication1\main.asm</FILE><LINE>174</LINE></typeCheck>
+  <typeReset><FILE>C:\Users\Aunafae\Desktop\уник\Программирование микроконтроллеров (зачёт)\Лабы\лаб6\MK_LAB6\AssemblerApplication1\main.asm</FILE><LINE>179</LINE></typeReset>
+  <speedButtonReleased><FILE>C:\Users\Aunafae\Desktop\уник\Программирование микроконтроллеров (зачёт)\Лабы\лаб6\MK_LAB6\AssemblerApplication1\main.asm</FILE><LINE>185</LINE></speedButtonReleased>
+  <speedCheck><FILE>C:\Users\Aunafae\Desktop\уник\Программирование микроконтроллеров (зачёт)\Лабы\лаб6\MK_LAB6\AssemblerApplication1\main.asm</FILE><LINE>192</LINE></speedCheck>
+  <speedReset><FILE>C:\Users\Aunafae\Desktop\уник\Программирование микроконтроллеров (зачёт)\Лабы\лаб6\MK_LAB6\AssemblerApplication1\main.asm</FILE><LINE>198</LINE></speedReset>
+ </LABELS>
+</ASSEMBLER_INFO>
